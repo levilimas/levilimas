@@ -2,7 +2,7 @@
 
 
 
-- 🔭 #### Hoje estou cursando desenvolvimento web fullstack na Growdev utilizando seguintes tecnologias:
+- #### 🔭 Hoje estou cursando desenvolvimento web fullstack na Growdev utilizando seguintes tecnologias:
   HTML, 
   CSS, 
   Javascript, 
@@ -13,7 +13,7 @@
   TDD com JS e 
   ReactJS, até o presente momento.
   
-- 🌱 ### Estou ainda, cursando Engenharia de Software na Universidade Federal do Ceará, iniciada no período letivo 2019.1 e com término previsto pra 2022.2.
+- #### 🌱 Estou ainda, cursando Engenharia de Software na Universidade Federal do Ceará, iniciada no período letivo 2019.1 e com término previsto pra 2022.2.
 - 😉 Pronomes: ELe/Dele
 
 <div>
@@ -55,7 +55,7 @@
   <a href="https://instagram.com/levilimas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href = "mailto:leviimediatai@hotmail.com"><img height="28px" width="85px" src="https://img.ibxk.com.br/2012/8/materias/2829013123639.jpg?w=1120&h=420&mode=crop&scale=both" target="_blank"></a>
   <a href = "mailto:leviimediatai@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href=https://www.linkedin.com/in/levi-limas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/levi-limas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
 
