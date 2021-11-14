@@ -10,7 +10,9 @@
   Typescript, 
   PostgreSQL, 
   NoSQL, 
-  TDD com JS e 
+  TDD com JS,
+  Scrum
+  e 
   ReactJS, até o presente momento.
   
 - #### 🌱 Estou ainda, cursando Engenharia de Software na Universidade Federal do Ceará, iniciada no período letivo 2019.1 e com término previsto pra 2022.2.
