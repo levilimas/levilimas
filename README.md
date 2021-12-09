@@ -1,5 +1,14 @@
-## Oii, sou Levi Lima 👨🏻‍💻
+# Hi, I'm Levi Lima 👨🏻‍💻
 
+```
+function dev(name, age, work) {
+        this.name = name;
+        this.age = age;
+        this.work = work;
+      }
+      let leviLima = new dev('Levi Lima', 29, 'fullstack developer start');
+      console.log(leviLima);
+```
 
 
 - #### 🔭 Hoje estou cursando desenvolvimento web fullstack na Growdev utilizando seguintes tecnologias:
@@ -24,7 +33,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levilimas&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-  ## Conhecimentos
+  ## Principais Skills:
 <div style="display: inline_block"><br>
   <img align="center" alt="Levi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Levi-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -33,6 +42,15 @@
   <img align="center" alt="Levi -Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/bootstrap/bootstrap-plain-wordmark.svg">
   <img align="center" alt="Levi-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/c/c-line.svg">
  </div>
+  
+  ## Ferramentas
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-05122A?style=for-the-badge&logo=windows)&nbsp;
+![microsoft-office](https://img.shields.io/badge/-microsoft_office-05122A?style=for-the-badge&logo=microsoft-office)&nbsp;
+ 
   
   ## Estudando:
   
