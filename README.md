@@ -6,7 +6,7 @@ function dev(name, age, work) {
         this.age = age;
         this.work = work;
       }
-      let leviLima = new dev('Levi Lima', 29, 'fullstack developer start');
+      let leviLima = new dev('Levi Lima', 29, 'fullstack developer start', 'Developer intern at FitBank450');
       console.log(leviLima);
 ```
 
