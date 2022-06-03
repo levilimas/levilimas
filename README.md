@@ -24,7 +24,7 @@ function dev(name, age, work) {
   e 
   ReactJS, até o presente momento.
   
-- #### 🌱 Estou ainda, cursando Engenharia de Software na Universidade Federal do Ceará, iniciada no período letivo 2019.1 e com término previsto pra 2022.2.
+- #### 🌱 Cursando Engenharia de Software na Universidade Federal do Ceará, iniciada no período letivo 2019.1 e com término previsto pra 2022.2.
 - 😉 Pronomes: ELe/Dele
 
 <div>
