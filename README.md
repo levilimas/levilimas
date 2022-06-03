@@ -13,7 +13,7 @@ function dev(name, age, work) {
 
 - #### 🔭 Hoje Trabalhando como desenvolvedor trainee no FitBank 450, trabalhando com techs C#, .NET, SQL, Azure entre outras, tenho aqui, oportunidades únicas de muito desenvolvimento em soft skills, trabalhando com uma equipe diversa e cheia de gente fora da curva.
   
-- #### 🚀 Desenvolvendo-me de forma independente em techs baseadas en Javascript com a Rochketseat, tais quais, como ReactJS, NodeJS, tendo uma melhor base de desenvolvimento Front-end e Back-end em Stacks JS.
+- #### 🚀 Desenvolvendo-me de forma independente em techs baseadas en Javascript com a Rocketseat, tais quais, como ReactJS, NodeJS, tendo uma melhor base de desenvolvimento Front-end e Back-end em Stacks JS.
   
 - #### 🌱 Cursando Engenharia de Software na Universidade Federal do Ceará.
 - 😉 Pronomes: ELe/Dele
