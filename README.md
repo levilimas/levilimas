@@ -11,20 +11,11 @@ function dev(name, age, work) {
 ```
 
 
-- #### 🔭 Hoje estou cursando desenvolvimento web fullstack na Growdev utilizando seguintes tecnologias:
-  HTML, 
-  CSS, 
-  Javascript, 
-  NodeJS, 
-  Typescript, 
-  PostgreSQL, 
-  NoSQL, 
-  TDD com JS,
-  Scrum
-  e 
-  ReactJS, até o presente momento.
+- #### 🔭 Hoje Trabalhando como desenvolvedor trainee no FitBank 450, trabalhando com techs C#, .NET, SQL, Azure entre outras, tenho aqui, oportunidades únicas de muito desenvolvimento em soft skills, trabalhando com uma equipe diversa e cheia de gente fora da curva.
   
-- #### 🌱 Cursando Engenharia de Software na Universidade Federal do Ceará, iniciada no período letivo 2019.1 e com término previsto pra 2022.2.
+- #### 🚀 Desenvolvendo-me de forma independente em techs baseadas en Javascript com a Rochketseat, tais quais, como ReactJS, NodeJS, tendo uma melhor base de desenvolvimento Front-end e Back-end em Stacks JS.
+  
+- #### 🌱 Cursando Engenharia de Software na Universidade Federal do Ceará.
 - 😉 Pronomes: ELe/Dele
 
 <div>
