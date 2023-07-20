@@ -1,17 +1,18 @@
 # Hi, I'm Levi Lima 👨🏻‍💻
 
 ```
-function dev(name, age, work) {
+function dev(name, age, work, currentCompany) {
         this.name = name;
         this.age = age;
         this.work = work;
+        this.currentCompany = currentCompany;
       }
-      let leviLima = new dev('Levi Lima', 29, 'fullstack developer start', 'Developer intern at FitBank450');
+      let leviLima = new dev('Levi Lima', 29, 'Junior Back-end Developer', 'FitBank450');
       console.log(leviLima);
 ```
 
 
-- #### 🔭 Hoje Trabalhando como desenvolvedor trainee no FitBank 450, trabalhando com techs C#, .NET, SQL, Azure entre outras, tenho aqui, oportunidades únicas de muito desenvolvimento em soft skills, trabalhando com uma equipe diversa e cheia de gente fora da curva.
+- #### 🔭 Hoje Trabalhando como desenvolvedor junior no FitBank 450, trabalhando com techs C#, .NET, SQL, Javascript, Azure entre outras, tenho aqui, oportunidades únicas de muito desenvolvimento em soft skills, trabalhando com uma equipe diversa e cheia de gente fora da curva.
   
 - #### 🚀 Desenvolvendo-me de forma independente em techs baseadas en Javascript com a Rocketseat, tais quais, como ReactJS, NodeJS, tendo uma melhor base de desenvolvimento Front-end e Back-end em Stacks JS.
   
