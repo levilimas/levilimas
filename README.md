@@ -12,12 +12,12 @@ function dev(name, age, work, currentCompany) {
 ```
 
 
-- #### 🔭 Hoje Trabalhando como desenvolvedor junior no FitBank 450, trabalhando com techs C#, .NET, SQL, Javascript, Azure entre outras, tenho aqui, oportunidades únicas de muito desenvolvimento em soft skills, trabalhando com uma equipe diversa e cheia de gente fora da curva.
+- #### 🔭 Today Working as a junior developer at FitBank 450, working with techs C#, .NET, SQL, Javascript, Azure among others, I have here unique opportunities for a lot of development in soft skills, working with a diverse team full of very good people.
   
-- #### 🚀 Desenvolvendo-me de forma independente em techs baseadas en Javascript com a Rocketseat, tais quais, como ReactJS, NodeJS, tendo uma melhor base de desenvolvimento Front-end e Back-end em Stacks JS.
+- #### 🚀Developing myself independently in techs based on C# with DIO and Javascript with Rocketseat, such as ReactJS, NodeJS, having a better Front-end and Back-end development base in Stacks JS.
   
-- #### 🌱 Cursando Engenharia de Software na Universidade Federal do Ceará.
-- 😉 Pronomes: ELe/Dele
+- #### 🌱 Studying Software Engineering at the Federal University of Ceará.
+- 😉 Pronouns: He/Him
 
 <div>
   <a href="https://github.com/levilimas">
@@ -25,7 +25,7 @@ function dev(name, age, work, currentCompany) {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levilimas&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-  ## Principais Skills:
+  ## Main Skills:
 <div style="display: inline_block"><br>
   <img align="center" alt="Levi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Levi-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -35,7 +35,7 @@ function dev(name, age, work, currentCompany) {
   <img align="center" alt="Levi-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/c/c-line.svg">
  </div>
   
-  ## Ferramentas
+  ## Tools
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
@@ -44,7 +44,7 @@ function dev(name, age, work, currentCompany) {
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-05122A?style=for-the-badge&logo=microsoft-office)&nbsp;
  
   
-  ## Estudando:
+  ## Studying:
   
   <div>
     <img align="center" alt="Levi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
