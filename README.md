@@ -7,7 +7,7 @@ function dev(name, age, work, currentCompany) {
         this.work = work;
         this.currentCompany = currentCompany;
       }
-      let leviLima = new dev('Levi Lima', 29, 'Junior Back-end Developer', 'FitBank450');
+      let leviLima = new dev('Levi Lima', 32, 'Software Fullstack Developer', 'None in this moment');
       console.log(leviLima);
 ```
 
