@@ -1,13 +1,12 @@
 # Hi, I'm Levi Lima 👨🏻‍💻
 
 ```
-function dev(name, age, work, currentCompany) {
+function dev(name, work, currentCompany) {
         this.name = name;
-        this.age = age;
         this.work = work;
         this.currentCompany = currentCompany;
       }
-      let leviLima = new dev('Levi Lima', 32, 'Software Back-end Developer', 'Teddy Open Finance');
+      let leviLima = new dev('Levi Lima', 'Software Engineer - Back-end', 'Teddy Open Finance');
       console.log(leviLima);
 ```
 
@@ -27,9 +26,9 @@ function dev(name, age, work, currentCompany) {
   
   ## Main Skills:
 <div style="display: inline_block"><br>
+  <img align="center" alt="Levi-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Levi-CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Levi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Levi-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Levi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Levi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Levi -Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/bootstrap/bootstrap-plain-wordmark.svg">
