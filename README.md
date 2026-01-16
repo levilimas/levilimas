@@ -11,7 +11,7 @@ function dev(name, work, currentCompany) {
 ```
 
 
-- #### 🔭 Today Working as a junior developer at FitBank 450, working with techs C#, .NET, SQL, Javascript, Azure among others, I have here unique opportunities for a lot of development in soft skills, working with a diverse team full of very good people.
+- #### 🔭 Today Working as a junior developer at XXXXXXXXXXX, working with techs C#, .NET, SQL, Javascript, Typescript, Nest.js. Postgres, Azure among others, I have here unique opportunities for a lot of development in soft skills, working with a diverse team full of very good people.
   
 - #### 🚀Developing myself independently in techs based on C# with DIO and Javascript with Rocketseat, such as ReactJS, NodeJS, having a better Front-end and Back-end development base in Stacks JS.
   
