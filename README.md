@@ -1,69 +1,95 @@
-# Hi, I'm Levi Lima 👨🏻‍💻
+# 👋 Hey, I'm Levi Lima
 
-```
-function dev(name, work, currentCompany) {
-        this.name = name;
-        this.work = work;
-        this.currentCompany = currentCompany;
-      }
-      let leviLima = new dev('Levi Lima', 'Software Engineer mid-level - Back-end', 'Clinicorp');
-      console.log(leviLima);
-```
+I build backend systems that are meant to scale, not just to work.
 
+---
 
-- #### 🔭 Today Working as a junior developer at XXXXXXXXXXX, working with techs C#, .NET, SQL, Javascript, Typescript, Nest.js. Postgres, Azure among others, I have here unique opportunities for a lot of development in soft skills, working with a diverse team full of very good people.
-  
-- #### 🚀Developing myself independently in techs based on C# with DIO and Javascript with Rocketseat, such as ReactJS, NodeJS, having a better Front-end and Back-end development base in Stacks JS.
-  
-- #### 🌱 Studying Software Engineering at the Federal University of Ceará.
-- 😉 Pronouns: He/Him
+## 🧠 My journey
 
-<div>
+I didn’t start as a “perfect” developer — and that’s exactly what shaped how I build software today.
+
+Early on, I focused on learning how things work under the hood. Not just writing code that passes, but understanding **why it works, how it scales, and where it breaks**.
+
+That mindset led me to backend development.
+
+Today, I work building APIs, integrations, and data-driven systems using **C#, .NET, Node.js and cloud technologies** — always aiming for clean architecture, performance, and maintainability.
+
+But more important than the stack is how I approach problems:
+
+> I don’t just deliver features — I think about longevity, performance, and real-world impact.
+
+---
+
+## ⚙️ What I actually do
+
+- Build **robust backend services** with .NET and Node.js
+- Design and consume **REST APIs**
+- Work with **relational databases** like PostgreSQL and SQL Server
+- Handle **data flows and integrations**
+- Continuously improve code quality with clean code principles
+
+---
+
+## 🧩 Tech Stack
+
+**Backend:**  
+C#, .NET, Node.js (NestJS)
+
+**Databases:**  
+PostgreSQL, SQL Server, Redis
+
+**Cloud & Tools:**  
+Azure, Git, GitHub
+
+**Frontend (when needed):**  
+React, TypeScript, JavaScript
+
+---
+
+## 📈 Growth mindset
+
+I’m constantly evolving, currently focused on:
+
+- Advanced **software architecture**
+- **System design** (scalability, performance, reliability)
+- Deep dive into **Node.js internals (streams, async processing)**
+- Cloud patterns and distributed systems
+
+---
+
+## 🎯 Where I'm going
+
+I’m working to become a backend engineer capable of:
+
+- Designing systems that handle real scale
+- Making solid architectural decisions
+- Building software that doesn’t collapse under pressure
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
   <a href="https://github.com/levilimas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=levilimas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levilimas&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=levilimas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levilimas&layout=compact&langs_count=7&theme=dark"/>
+  </a>
 </div>
-  
-  ## Main Skills:
-<div style="display: inline_block"><br>
-  <img align="center" alt="Levi-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Levi-CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Levi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Levi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Levi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Levi -Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/bootstrap/bootstrap-plain-wordmark.svg">
-  <img align="center" alt="Levi-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/c/c-line.svg">
- </div>
-  
-  ## Tools
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-05122A?style=for-the-badge&logo=windows)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-05122A?style=for-the-badge&logo=microsoft-office)&nbsp;
- 
-  
-  ## Studying:
-  
-  <div>
-    <img align="center" alt="Levi-CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img align="center" alt="Levi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Levi-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="Levi-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/nodejs/nodejs-original.svg">
-    <img align="center" alt="Levi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Levi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Levi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Levi-PostSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/postgresql/postgresql-original.svg">
-    <img align="center" alt="Levi-Redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/redis/redis-original.svg">
-  </div>
+---
 
-  
-  ##
- 
+## 🤝 Let’s connect
+
+If you like building things that actually matter, we’ll get along.
+
 <div> 
-  <a href="https://instagram.com/levilimas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href = "mailto:leviimediatai@hotmail.com"><img height="28px" width="85px" src="https://img.ibxk.com.br/2012/8/materias/2829013123639.jpg?w=1120&h=420&mode=crop&scale=both" target="_blank"></a>
-  <a href = "mailto:leviimediatai@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/levi-limas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
+  <a href="https://instagram.com/levilimas" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="mailto:leviimediatai@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/levi-limas" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+</div>
