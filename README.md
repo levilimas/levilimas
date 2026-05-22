@@ -38,7 +38,7 @@ Backend Engineer focused on building **scalable and reliable systems**. I don't 
 |---|---|
 | 🎯 **Focus** | Performance, scalability, system design, long-term maintainability |
 | 🏗️ **What I build** | Scalable backend services with **.NET and Node.js**, REST APIs, data-driven integrations, clean architectures |
-| 📚 **Currently** | Deepening distributed systems & async processing patterns |
+| 📚 **Currently** | Deepening distributed systems, Engineering aplyed with AI & async processing patterns |
 | 💼 **Working at** | [Clinicorp](https://clinicorp.com) — Import/Export team |
 
 </details>
@@ -61,7 +61,7 @@ Engenheiro Backend focado em construir **sistemas escaláveis e confiáveis**. N
 |---|---|
 | 🎯 **Foco** | Performance, escalabilidade, design de sistemas, manutenibilidade |
 | 🏗️ **O que construo** | Serviços backend escaláveis com **.NET e Node.js**, APIs REST, integrações orientadas a dados, arquiteturas limpas |
-| 📚 **Atualmente** | Aprofundando em sistemas distribuídos e processamento assíncrono |
+| 📚 **Atualmente** | Aprofundando em sistemas distribuídos, Engenharia aplicada com IA e processamento assíncrono |
 | 💼 **Trabalhando em** | [Clinicorp](https://clinicorp.com) — Time de Import/Export |
 
 </details>
